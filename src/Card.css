@@ -1,0 +1,6 @@
+img{
+    cursor:pointer;
+}
+img > *{
+    cursor: pointer;
+}
